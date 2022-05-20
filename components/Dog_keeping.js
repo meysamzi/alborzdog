@@ -47,47 +47,55 @@ const Dog_keeping = (props) => {
     return (
         <Fragment>
             <div className='keeping_container'>
-                <div className='keeping_item'>
-                    <div className='keeping_item_title'>
+                <div className='keeping_col_1'>
+                    <div>
                         <p>نگهداری</p>
                     </div>
                     <div className='keeping_item_picture'>
                         <img src={props.props.data.keeping_item_picture_src} />
                     </div>
-                    <div className='keeping_item_food_picture'></div>
-                    <div className='keeping_item_food_title' onMouseEnter={keeping_item_food_title_content_block}>
-                        <p>تغذیه</p>
+                </div>
+                <div className='keeping_col_2'>
+                    <div className='keeping_col_2_pictures_container'>
+                        <i class="fas fa-hamburger"></i>
+                        <i class="fa-solid fa-broom"></i>
+                        <i class="fa-solid fa-dumbbell"></i>
+                        <i class="fa-solid fa-clock"></i>
+                        <i class="fa-solid fa-heart-pulse"></i>
                     </div>
-                    <div className='keeping_item_food_content keeping_item_content_css' ref={keeping_item_food_contentt}>
-                        <p>{props.props.data.keeping_item_food_content}</p>
+                    <div className='keeping_col_2_titles_container'>
+                        <div className='keeping_item_food_title' onMouseEnter={keeping_item_food_title_content_block}>
+                            <p>تغذیه</p>
+                        </div>
+                        <div className='keeping_item_comb_title' onMouseEnter={keeping_item_comb_title_content_block}>
+                            <p>آراستن</p>
+                        </div>
+                        <div className='keeping_item_training_title' onMouseEnter={keeping_item_training_title_content_block}>
+                            <p>تمرین</p>
+                        </div>
+                        <div className='keeping_item_coaching_title' onMouseEnter={keeping_item_training_coaching_content_block}>
+                            <p>زمان آموزش</p>
+                        </div>
+                        <div className='keeping_item_health_title' onMouseEnter={keeping_item_training_health_content_block}>
+                            <p>سلامت</p>
+                        </div>
                     </div>
-                    <div className='keeping_item_comb_picture'></div>
-                    <div className='keeping_item_comb_title' onMouseEnter={keeping_item_comb_title_content_block}>
-                        <p>آراستن</p>
-                    </div>
-                    <div className='keeping_item_comb_content keeping_item_content_css' ref={keeping_item_comb_content}>
-                        <p>{props.props.data.keeping_item_comb_content}</p>
-                    </div>
-                    <div className='keeping_item_training_picture'></div>
-                    <div className='keeping_item_training_title' onMouseEnter={keeping_item_training_title_content_block}>
-                        <p>تمرین</p>
-                    </div>
-                    <div className='keeping_item_training_content keeping_item_content_css' ref={keeping_item_training_content}>
-                        <p>{props.props.data.keeping_item_training_content}</p>
-                    </div>
-                    <div className='keeping_item_coaching_picture'></div>
-                    <div className='keeping_item_coaching_title' onMouseEnter={keeping_item_training_coaching_content_block}>
-                        <p>زمان آموزش</p>
-                    </div>
-                    <div className='keeping_item_coaching_content keeping_item_content_css' ref={keeping_item_coaching_content}>
-                        <p>{props.props.data.keeping_item_coaching_content}</p>
-                    </div>
-                    <div className='keeping_item_health_picture'></div>
-                    <div className='keeping_item_health_title' onMouseEnter={keeping_item_training_health_content_block}>
-                        <p>سلامت</p>
-                    </div>
-                    <div className='keeping_item_health_content keeping_item_content_css' ref={keeping_item_health_content}>
-                        <p>{props.props.data.keeping_item_health_content}</p>
+                    <div className='keeping_col_2_content_container'>
+                        <div className='keeping_item_content_css keeping_item_food_content' ref={keeping_item_food_contentt}>
+                            <p>{props.props.data.keeping_item_food_content}</p>
+                        </div>
+                        <div className='keeping_item_content_css keeping_item_comb_content' ref={keeping_item_comb_content}>
+                            <p>{props.props.data.keeping_item_comb_content}</p>
+                        </div>
+                        <div className='keeping_item_content_css keeping_item_training_content' ref={keeping_item_training_content}>
+                            <p>{props.props.data.keeping_item_training_content}</p>
+                        </div>
+                        <div className='keeping_item_content_css keeping_item_coaching_content' ref={keeping_item_coaching_content}>
+                            <p>{props.props.data.keeping_item_coaching_content}</p>
+                        </div>
+                        <div className='keeping_item_content_css keeping_item_content' ref={keeping_item_health_content}>
+                            <p>{props.props.data.keeping_item_health_content}</p>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -77,7 +77,7 @@ const Dogs_pages = (props) => {
             {
                 /* Ranking */
             }
-            {[0, 1].map(() => (<Ranking />))}
+            <Ranking />
             {
                 /* Ranking */
             }
@@ -106,9 +106,7 @@ const Dogs_pages = (props) => {
                 /* Blood list */
             }
             <div className='blood_list_container_dogs_list'>
-                <div className='blood_list_items_dogs_list'>
-                    {blood_list.map(blood_list => <Blood_list data={blood_list} />)}
-                </div>
+                {blood_list.map(blood_list => <Blood_list data={blood_list} />)}
             </div>
             {
                 /* Blood list */

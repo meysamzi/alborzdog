@@ -35,9 +35,7 @@ function Dogs_list() {
             {
                 /* Dogs list picture header */
             }
-            <div className='dogs_list_header_container'>
-                <div className='dogs_list_header_picture'></div>
-            </div>
+            <div className='dogs_list_header_picture'></div>
             {
                 /* Dogs list picture header */
             }
@@ -45,9 +43,7 @@ function Dogs_list() {
                 /* Blood list */
             }
             <div className='blood_list_container_dogs_list'>
-                <div className='blood_list_items_dogs_list'>
-                    {blood_list.map(blood_list => <Blood_list data={blood_list} />)}
-                </div>
+                {blood_list.map(blood_list => <Blood_list data={blood_list} />)}
             </div>
             {
                 /* Blood list */

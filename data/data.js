@@ -315,9 +315,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 7 تا 10 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "گریت دین آسانگیر و قدرتمند که 'آپولوی سگها' نیز نامیده می شود، سگی است که از بودن در کنار آن کاملا لذت می برید. اما داشتن یک سگ با چنین اندازه، وزن و قدرتی تعهدی است که نباید آن را سبک گرفت. این نژاد واقعاً کبیر (گریت) است، اما با دین می توان کنار آمد.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_1_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_1_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_1_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/greatdane_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/greatdane_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/greatdane_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -332,9 +332,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "گلدن رتریور، یک سگ شکاری زیبای اسکاتلندی است که در بین محبوب ترین نژادهای سگ آمریکا قرار دارد. آنها در شکار و کارهای میدانی، کارگران جدی هستند و به عنوان راهنما برای نابینایان و در جستجو، امداد و نجات و همچنین در رقابت های اطاعت پذیری و سایر رویدادهای رقابتی، از کار خود لذت می برند و هنگامی که در محل کار نیستند نیز عشق دوستانه ای به زندگی دارند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_2_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_2_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_2_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/goldenretriver_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/goldenretriver_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/goldenretriver_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -349,9 +349,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "لابرادور رتریور با داشتن چهره ای شیرین، محبوب ترین نژاد سگ در آمریکا است. لابرادورها، همراهانی مهربان، برونگرا و پر انرژی هستند که با داشتن عواطف بسیار زیاد، مناسب خانواده هایی هستند که به دنبال یک سگ اندازۀ متوسط تا بزرگ هستند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_3_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_3_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_3_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/labrador_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/labrador_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/labrador_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -366,9 +366,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "آلاسکن مالاموت به عنوان یک سگ کاری فوق العاده قوی از نوع اشپیتز، یک سگ با محبت، وفادار و بازیگوش اما با عزت نفس است که با دم پوشیده از خز که بر پشت خود قرار می دهد، گوش های راست و استخوان بندی قوی خود، قابل تشخیص است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_4_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_4_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_4_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/malamot_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/malamot_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/malamot_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -411,9 +411,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "سیبرین هاسکی ، یک سگ سورتمه ای با اندازۀ متوسط و دارای پوشش ضخیم و استقامت عالی است که برای کار در دسته های سگ و کشیدن بارهای سبک با سرعت متوسط در مناطق گستردۀ یخ زده، ساخته شده است. این نژاد شمالی، مهربان و باریک بین است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/haski_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/haski_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/haski_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -428,9 +428,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 13 تا 16 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: غیر ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "یک نژاد قدیمی ژاپنی. شیبا اینو یک سگ کوچک اما عضلانی است که زمانی به عنوان شکارچی کار می کرده است. امروزه شیبای باروحیه و خوش اخلاق محبوب ترین سگ همراه در ژاپن است. شیبا در خانه های شهری و یا روستایی سازگار است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_8_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_8_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_8_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/shibaino_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/shibaino_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/shibaino_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -459,9 +459,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 18 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "با آن چهره و آن چشمهای تیرۀ بزرگ که با ظاهری شیرین به شما نگاه می کنند! جای تعجب ندارد که صاحبان شیتزو به مدت هزار سال از بودن در کنار این 'شیر سگ' کوچولو لذت برده اند و شیتزو نیز همچنان شیطنت و بازیگوشی خود را دنبال کرده است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_11_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_11_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_11_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/shitzo_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/shitzo_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/shitzo_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -476,9 +476,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "روه: بنیاد خدمات نژادی(FSS)",
     "first_nav_dropdown_container_nezhadha_content_content_7": "سگ گلۀ قفقازی یک سگ نگهبان جدی است و هرگز نباید آن را دست کم گرفت. قفقازی در صورت بروز تهدید جسور، نترس، با اعتماد به نفس و سرسخت است، اما نسبت به خانواده خود از جمله سایر حیوانات خانگی خانواده، نرم، فداکار، مهربان و دوست داشتنی است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_10_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_10_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_10_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/ghafghazi_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/ghafghazi_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/ghafghazi_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -493,9 +493,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 9 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "کین کورسو، سگی هوشمند، قابل آموزش و اصیل است که با توجه به قاطعیت و اعتماد به نفس خود، یک محافظ بی نظیر است. اصل و نسب کورسو به دوران روم باستان برمی گردد و تقریباً نام این نژاد از زبان لاتین و به معنای 'سگ محافظ' گرفته شده است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_1_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_1_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_1_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/kinkorso_3.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/kinkorso_3.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/kinkorso_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -510,9 +510,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 13 تا 15 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: بنیاد خدمات نژادی(FSS)",
     "first_nav_dropdown_container_nezhadha_content_content_7": "ژرمن اشپیتز، سگی همیشه هشیار و سرزنده است و نسبت به صاحب خود فوق العاده فداکار است. او بسیار آموزش پذیر است و به آسانی تربیت می شود. بی اعتمادی او به غریبه ها و فقدان غریزه شکار، او را به یک نگهبان ایده آل برای خانه ها تبدیل کرده است. بی تفاوتی به آب و هوا، پایداری و طول عمر، برجسته ترین ویژگی های این نژاد محسوب می شوند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_2_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_2_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_2_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/eshpitez_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/eshpitez_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/eshpitez_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -527,9 +527,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 16 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پامرانین کوچک، که مدت ها مورد علاقه افراد سلطنتی و متداول بوده است، به عنوان یاری ایده آل شناخته می شود. پوشش باشکوه، خندان، چهره روباه گونه و شخصیت پرشور و پرتحرک باعث شده است که پوم (مخفف پامرانین) به یکی از محبوب ترین نژادهای عروسکی در جهان تبدیل شود.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_3_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_3_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_3_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/pamraninkhersi_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/pamraninkhersi_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/pamraninkhersi_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -544,9 +544,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 14 تا 16 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پاپیلون ضمن سریع و کنجکاو بودن، یک سگ عروسکی با زیبایی منحصر به فرد و یک سگ ورزشکار و خوش بین است. پاپیلون با وجود ظاهر ظریف، یک 'سگ واقعی' است که دارای استخوان بندی مقاوم است. علاقه مندان به پاپیلون، این نژاد را نژادی شاد، هوشیار و مهربان توصیف می کنند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_4_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_4_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_4_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/papilon_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/papilon_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/papilon_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -561,9 +561,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 13 تا 15 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پاگ کوچولو اما قوی، زمانی همدم بازیگوش امپراتورهای چینی و بعداً نماد شانس کاخ سلطنتی (کاخ نارنجی) هلند بود و امروزه نیز مورد تحسین میلیون ها نفر از طرفداران این نژاد قرار دارد. پاگها زندگی می کنند تا عشق بورزند و متقابلا دوست داشته شوند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_5_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_5_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_5_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/pag_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/pag_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/pag_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -578,9 +578,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 18 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: غیر ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پودل ها خواه استاندارد، مینیاتوری یا عروسکی باشند، خواه سیاه، سفید و یا زردآلویی باشند، با افتخار در میان اشراف های واقعی دنیای سگ ها قرار می گیرند. در زیر پوشش فرفری آنها که حساسیت زایی پایینی دارد، پودل یک قهرمان و همراه خوب برای همۀ فصول است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_6_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_6_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_6_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/podelminyatori_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/podelminyatori_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/podelminyatori_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -595,9 +595,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 18 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پودل عروسکی علی رغم اندازۀ کوچک، با غرور در میان سگهای اشرافی واقعی، قرار می گیرد. در زیر پوشش فرفری آن که حساسیت زایی کمی نیز دارد، یک ورزشکار و همراه خوب برای تمام فصول قرار گرفته است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_7_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_7_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_7_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/podelarosaki_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/podelarosaki_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/podelarosaki_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -612,9 +612,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 14 تا 16 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "چي واوا، سگی ریزاندام، با شخصیتی بزرگ است. این سگها، به عنوان سمبل ملی مکزیک از جمله سگهای اصطلاحا 'جیبی یا کیسه ای' هشیار و سرگرم کننده هستند که در میان قدیمی ترین نژادهای قاره آمریکا قرار می گیرند و پیشینۀ آنها به پادشاهی های باستانی دوران پیش از کلمبیا باز می گردد.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/chivava_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/chivava_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/chivava_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -629,9 +629,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: تریر",
     "first_nav_dropdown_container_nezhadha_content_content_7": "راسل تریر به عنوان یک نژاد سرزنده، کنجکاو و مردم دوست، توسط 'اسپورتینگ پارسون' انگلیسی برای استفاده در شکار روباه پرورش داده شد. راسل تریر تحسین برانگیز، بیشتر شبیه به یک عروسک مخملی است که زنده شده است، اما در واقع یک تریر کارگر مشتاق و خستگی ناپذیر است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_9_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_9_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_9_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/jackrasel_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/jackrasel_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/jackrasel_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -646,9 +646,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 13 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: شکاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "از میان جذاب ترین نژادهای AKC، سگهای دوست داشتنی و بلافاصله قابل شناسایی باست هاند، مورد علاقۀ همیشگی دوستداران سگ در سراسر جهان بوده است. این سگهای شکاری پا کوتاه و ساده گاهی اوقات می توانند لجباز باشند، اما همیشه جذاب هستند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_10_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_10_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_10_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/bastrand_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/bastrand_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/bastrand_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -663,9 +663,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: عروسکی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "پیکینیز، یك سگ عروسکی جمع و جور و اشرافی با راه رفتن متمایز، یكی از چندین نژادی است كه برای طبقات حاكم چین باستان ایجاد شده بود. آنها سگهایی پیچیده با وفاداری غیرقابل انکار و ویژگیهای ظریفی هستند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_2_item_11_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_2_item_11_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_2_item_11_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/pikiniz_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/pikiniz_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/pikiniz_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -680,9 +680,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 15 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: شکاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "بیگل نه تنها یک سگ شکاری عالی و یک همراه وفادار است، بلکه سرزنده، بامزه و - به لطف ظاهر ملتماسانۀ خود – جذاب است. آنها برای شکار در دسته ها پرورش داده شده اند، بنابراین از مشارکت لذت می برند و به طور کلی آسانگیر هستند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_1_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_1_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_1_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/beygel_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/beygel_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/beygel_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -697,9 +697,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 8 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: غیر ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "چاوچاو، یک سگ همه منظوره از چین باستان است که تصویری از یک اشرافی عضلانی با سینه ای عمیق و یک حال و هوای وصف نشدنی را به نمایش می گذارد. چاوچاو، به عنوان سگی متشخص، با ذهنیتی جدی و درونگرا، نژادی با لذتهای منحصر به فرد است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_2_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/chavchav_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/chavchav_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/chavchav_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -714,9 +714,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 11 تا 13 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: غیر ورزشی",
     "first_nav_dropdown_container_nezhadha_content_content_7": "دالمیشن های باوقار، به خاطر پوشش خالدار و وظایف منحصر به فردی که به عهده داشته اند، مشهور هستند. این 'سگهای مربی' در طول تاریخچۀ طولانی خود به عنوان همراه و محافظ مربیان اسبهای اشراف، محافظ مسافران و آتش نشانان خدمت کرده اند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_3_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_3_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_3_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/dalmishen_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/dalmishen_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/dalmishen_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -731,9 +731,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 10 تا 12 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "دوبرمن پینچر با دارا بودن بدنی قدرتمند و هوش بالا، یکی از نجیب زاده های دنیای سگ ها محسوب می شود. این نژاد بسیار بی باک و هوشیار، با افتخار در بین بهترین سگهای محافظتی جهان قرار می گیرد.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_4_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_4_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_4_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/doberman_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/doberman_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/doberman_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -748,9 +748,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: گله",
     "first_nav_dropdown_container_nezhadha_content_content_7": "کالی شکوهمند، به لطف صد سال حضور به عنوان یک ستارۀ فرهنگ پاپ، در میان شناخته شده ترین و محبوب ترین نژادهای سگ در جهان قرار دارد. کالی با پوشش 'مجعد' کامل، گونۀ آشناتری است، اما کالی با پوشش 'صاف' براق نیز وجود دارد.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_5_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_5_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_5_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/rafkoli_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/rafkoli_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/rafkoli_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -765,9 +765,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 7 تا 10 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: گله",
     "first_nav_dropdown_container_nezhadha_content_content_7": "عموماً به عنوان بهترین سگ کارگر همه منظوره شناخته می شود. جرمن شپرد یک سگ بزرگ، چابک و عضلانی بوده و دارای شخصیتی نجیب و هوشی بالاست. وفادار، با اعتماد به نفس، شجاع و پایدار. عاشقان سگ واقعاً از داشتن جرمن شپرد لذت می برند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_6_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_6_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_6_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/rotwiler_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/rotwiler_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/rotwiler_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -782,9 +782,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 7 تا 10 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: گله",
     "first_nav_dropdown_container_nezhadha_content_content_7": "عموماً به عنوان بهترین سگ کارگر همه منظوره شناخته می شود. جرمن شپرد یک سگ بزرگ، چابک و عضلانی بوده و دارای شخصیتی نجیب و هوشی بالاست. وفادار، با اعتماد به نفس، شجاع و پایدار. عاشقان سگ واقعاً از داشتن جرمن شپرد لذت می برند.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_7_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_7_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_7_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/zherman_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/zherman_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/zherman_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -799,9 +799,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "سامویید یک سگ باوقار و برازنده است با ارتفاعی از 48.26 تا کمی بیش از 58.42 سانتیمتر تا شانه ها. قدرتمند، خستگی ناپذیر، با یک موی تماماً ضخیم و سفید؛ و مقاوم در برابر سرما – سامی ها (Sammies) کاملاً زیبا و البته بسیار کاربردی هستند. حتی لذت بخش ترین ویژگی آنها، یعنی لبخند همیشگیشان، عملکردی عملی دارد: گوشه های برافراشته دهان، صورت سامی ها را شاد نشان داده، و مانع از ایجاد حالت بی روح در صورت آن ها می شود.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_8_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_8_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_8_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/samvid_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/samvid_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/samvid_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -816,9 +816,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 15 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: گله",
     "first_nav_dropdown_container_nezhadha_content_content_7": "وقتی صحبت از سگ‌های بزرگ و عظیم می‌شود، همیشه سگ سرابی اولین نژادی است که در ذهن همه نقش می‌بندد. نژاد سگ سرابی یکی از پرطرفدارترین نژادها برای نگهبانی و تربیت گارد است. سایز بزرگ، فک قوی و چهره با ابهت نژاد سگ سرابی از ویژگی‌های پررنگ این نژاد است.</p>",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_3_item_9_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_3_item_9_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_3_item_9_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/sarabi_1.png",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/sarabi_2.png",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/sarabi_3.png"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -833,9 +833,9 @@ let first_nav_dropdown_container_nezhadha = [
     "first_nav_dropdown_container_nezhadha_content_content_5": "طول عمر: 12 تا 14 سال",
     "first_nav_dropdown_container_nezhadha_content_content_6": "گروه: کاری",
     "first_nav_dropdown_container_nezhadha_content_content_7": "سیبرین هاسکی ، یک سگ سورتمه ای با اندازۀ متوسط و دارای پوشش ضخیم و استقامت عالی است که برای کار در دسته های سگ و کشیدن بارهای سبک با سرعت متوسط در مناطق گستردۀ یخ زده، ساخته شده است. این نژاد شمالی، مهربان و باریک بین است.",
-    "first_nav_dropdown_container_nezhadha_pic_1": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_1",
-    "first_nav_dropdown_container_nezhadha_pic_2": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_2",
-    "first_nav_dropdown_container_nezhadha_pic_3": "first_nav_dropdown_container_nezhadha_title_1_item_7_container_pic_3"
+    "first_nav_dropdown_container_nezhadha_pic_1": "/images/haski_1.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_2": "/images/haski_2.jpg",
+    "first_nav_dropdown_container_nezhadha_pic_3": "/images/haski_3.jpg"
   },
   {
     "first_item_remove_grid": "first_item_remove_grid",
@@ -855,122 +855,122 @@ let first_nav_dropdown_container_nezhadha = [
 
 let blood_list = [
   {
-    "blood_list_item_1_picture": "blood_list_item_1_picture",
+    "blood_list_pictures_src": "/images/greatdane_4.jpg",
     "blood_list_items_link_1": "/great_dane",
     "blood_list_items_title_1": 'سگ گریت دین'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_2_picture",
+    "blood_list_pictures_src": "/images/goldenretriver_4.jpg",
     "blood_list_items_link_1": "/golden_retriever",
     "blood_list_items_title_1": 'سگ گلدن رتریور'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_3_picture",
+    "blood_list_pictures_src": "/images/labrador_4.jpg",
     "blood_list_items_link_1": "/labrador_retriever",
     "blood_list_items_title_1": 'سگ لابرادور رتریور'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_4_picture",
+    "blood_list_pictures_src": "/images/malamot_4.jpg",
     "blood_list_items_link_1": "/alaskan_malamute",
     "blood_list_items_title_1": 'سگ آلاسکان مالاموت'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_5_picture",
+    "blood_list_pictures_src": "/images/sentbernard_4.jpg",
     "blood_list_items_link_1": "/saint_bernard",
     "blood_list_items_title_1": 'سگ سنت برنارد'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_6_picture",
+    "blood_list_pictures_src": "/images/sibriyanhaski_4.jpg",
     "blood_list_items_link_1": "/siberian_husky",
     "blood_list_items_title_1": 'سگ سیبرین هاسکی'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_7_picture",
+    "blood_list_pictures_src": "/images/shibaino_4.jpg",
     "blood_list_items_link_1": "/shiba_inu",
     "blood_list_items_title_1": 'سگ شیبا اینو'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_8_picture",
+    "blood_list_pictures_src": "/images/ghafghazi_4.jpg",
     "blood_list_items_link_1": "/Caucasian",
     "blood_list_items_title_1": 'سگ قفقازی'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_9_picture",
+    "blood_list_pictures_src": "/images/ghafghazi_4.jpg",
     "blood_list_items_link_1": "/Caucasian",
     "blood_list_items_title_1": 'سگ قفقازی'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_10_picture",
+    "blood_list_pictures_src": "/images/shitzo_4.jpg",
     "blood_list_items_link_1": "/Shih_tzu",
     "blood_list_items_title_1": 'سگ شیتزو'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_11_picture",
+    "blood_list_pictures_src": "/images/zherman_4.jpg",
     "blood_list_items_link_1": "/german_spitz",
     "blood_list_items_title_1": 'سگ ژرمن شپرد'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_12_picture",
+    "blood_list_pictures_src": "/images/papilon_4.jpg",
     "blood_list_items_link_1": "/Papillon",
     "blood_list_items_title_1": 'سگ پاپیلون'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_13_picture",
+    "blood_list_pictures_src": "/images/pag_4.jpg",
     "blood_list_items_link_1": "/Pug",
     "blood_list_items_title_1": 'سگ پاگ'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_14_picture",
+    "blood_list_pictures_src": "/images/goldenretriver_4.jpg",
     "blood_list_items_link_1": "golden_retriever",
     "blood_list_items_title_1": 'سگ گلدن رتریور'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_15_picture",
+    "blood_list_pictures_src": "/images/podelminyatori_4.jpg",
     "blood_list_items_link_1": "/Poodle_miniature",
     "blood_list_items_title_1": 'سگ پودل مینیاتوری'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_16_picture",
+    "blood_list_pictures_src": "/images/podelarosaki_4.jpg",
     "blood_list_items_link_1": "/poodle_toy",
     "blood_list_items_title_1": 'سگ پودل عروسکی'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_17_picture",
+    "blood_list_pictures_src": "/images/chavchav_4.jpg",
     "blood_list_items_link_1": "/chihuahua",
     "blood_list_items_title_1": 'سگ چیواوا'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_18_picture",
+    "blood_list_pictures_src": "/images/jackrasel_4.jpg",
     "blood_list_items_link_1": "/jack_russell_terrier",
     "blood_list_items_title_1": 'سگ جک راسل'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_19_picture",
+    "blood_list_pictures_src": "/images/bastrand_4.jpg",
     "blood_list_items_link_1": "/basset_hound",
     "blood_list_items_title_1": 'سگ باست هاند'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_20_picture",
+    "blood_list_pictures_src": "/images/beygel_4.jpg",
     "blood_list_items_link_1": "/beagle",
     "blood_list_items_title_1": 'سگ بیگل'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_21_picture",
+    "blood_list_pictures_src": "/images/chavchav_4.jpg",
     "blood_list_items_link_1": "/chow_chow",
     "blood_list_items_title_1": 'سگ چاو چاو'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_22_picture",
+    "blood_list_pictures_src": "/images/doberman_4.jpg",
     "blood_list_items_link_1": "/doberman_pinscher",
     "blood_list_items_title_1": 'سگ دوبرمن'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_23_picture",
+    "blood_list_pictures_src": "/images/rotwiler_4.jpg",
     "blood_list_items_link_1": "/rottweiler",
     "blood_list_items_title_1": 'سگ روتوایلر'
   },
   {
-    "blood_list_item_1_picture": "blood_list_item_24_picture",
+    "blood_list_pictures_src": "/images/zherman_4.jpg",
     "blood_list_items_link_1": "/german_shepherd_dog",
     "blood_list_items_title_1": 'سگ ژرمن شپرد'
   }
@@ -993,10 +993,10 @@ let alaskan_malamute =
   "dog_attitude_weight": "وزن: 38 کیلوگرم (نر)، 34 کیلوگرم (ماده)",
   "dog_attitude_longevity": "طول عمر: 10 تا 14 سال",
   "dog_attitude_category": "گروه:کاری",
-  "dog_attitude_content": "آلاسکن مالاموت به عنوان یک سگ کاری فوق العاده قوی از نوع اشپیتز، یک سگ با محبت، وفادار و بازیگوش اما با عزت نفس است که با دم پوشیده از خز که بر پشت خود قرار می دهد، گوش های راست و استخوان بندی قوی خود، قابل تشخیص است.",
+  "dog_attitude_content": ".آلاسکن مالاموت به عنوان یک سگ کاری فوق العاده قوی از نوع اشپیتز، یک سگ با محبت، وفادار و بازیگوش اما با عزت نفس است که با دم پوشیده از خز که بر پشت خود قرار می دهد، گوش های راست و استخوان بندی قوی خود، قابل تشخیص است.",
   "dog_attitude_item_footer_content_1": "قیمت حدودی در بازار ایران: از 5 تا 6 میلیون تومان",
   "dog_order_contact_title_1": "دوست داری یک توله آلاسکن مالاموت داشته باشی؟",
-  "dog_order_contact_picture_src":"/images/malamot_4.jpg",
+  "dog_order_contact_picture_src": "/images/malamot_4.jpg",
   "keeping_item_picture_src": "/images/malamot_4.jpg",
   "keeping_item_food_content": "آلاسکن مالاموت باید با یک غذای سگ دارای کیفیت بالا، خواه بصورت تجاری و خواه در منزل تهیه شده باشد، تحت نظر و تایید دامپزشکتان، تغذیه شود. هر رژیم غذایی باید برای سن سگ (توله سگ، بزرگسال و سالخورده) مناسب باشد. برخی از سگ ها ممکن است مستعد اضافه وزن باشند، بنابراین کالری و وزن سگ خود را تحت نظر داشته باشید. استفاده از تشویقی ها می تواند کمک مهمی در آموزش باشد، اما استفادۀ زیاد از آنها می تواند باعث چاقی شود. درباره اینکه کدام یک از غذاهای انسانی برای سگ ها بی خطر هستند، اطلاعات لازم را کسب کنید. اگر در مورد وزن یا رژیم سگ خود نگرانی دارید، با دامپزشک خود مطرح کنید. آب تمیز و تازه باید همیشه در دسترس قرار داشته باشد.",
   "keeping_item_comb_content": "پوشش دولایۀ ضخیم و ضد آب آلاسکن مالاموت به خوبی و زیبایی با محیط زندگی دشوار قطب شمال سازگار شده است، اما این پوشش نیاز به نگهداری مداوم دارد. یک آلاسکن مالاموت باید هر روز با یک برس و شانۀ فلزی برس زده شود، و در تمام مدت از نظر وجود قارچ که می تواند سرایت کننده باشد، کنترل شود. دو بار در سال و در طول فصل ریزش مو باید چنگک کشیدن روی زیرپوشش (زیر کت یا پوشش دارای موهای کوتاهتر) به روش کار اضافه شود. مالاموت های نمایشی اغلب هر هفته حمام داده می شوند، اما یک مالاموت خانگی می تواند بین حمام هایش، شش تا هشت هفته فاصله داشته باشد. در صورت احساس خشکی در پوشش از نرم کننده ها می توان با رعایت اعتدال استفاده کرد. مانند سایر نژادها، ناخن های آلاسکن مالاموت نیز باید مرتباً کوتاه شوند.",
@@ -1031,11 +1031,12 @@ let basset_hound =
   "dog_attitude_weight": "وزن: 18 تا 30 کیلوگرم",
   "dog_attitude_longevity": "طول عمر: 12 تا 13 سال",
   "dog_attitude_category": "گروه:شکاری",
-  "dog_attitude_content": "از میان جذاب ترین نژادهای AKC، سگهای دوست داشتنی و بلافاصله قابل شناسایی باست هاند، مورد علاقۀ همیشگی دوستداران سگ در سراسر جهان بوده است. این سگهای شکاری پا کوتاه و ساده گاهی اوقات می توانند لجباز باشند، اما همیشه جذاب هستند.",
+  "dog_attitude_content": "از میان جذاب ترین نژادهای AKC، سگهای دوست داشتنی و بلافاصله قابل شناسایی باست هاند، مورد علاقۀ همیشگی دوستداران سگ در سراسر جهان بوده است. این سگهای شکاری پا کوتاه و ساده گاهی اوقات می توانند لجباز باشند، اما همیشه جذاب هستند",
   "dog_attitude_item_footer_content_1": "قیمت حدودی در بازار ایران: از 15 تا 20 میلیون تومان",
   "dog_order_contact_title_1": "دوست داری یک توله باست هاند داشته باشی؟",
-  "dog_order_contact_picture_src":"/images/bastrand_4.jpg",
+  "dog_order_contact_picture_src": "/images/bastrand_4.jpg",
   "keeping_item_picture_src": "/images/bastrand_4.jpg",
+  "keeping_item_food_pic": "/images/food.svg",
   "keeping_item_food_content": "باست هاندها باید با غذای سگ با کیفیت بالا، خواه بصورت تجاری و یا در منزل، با نظارت و تأیید دامپزشکتان تهیه شده باشد، تغذیه شوند. هر رژیم غذایی باید متناسب با سن سگ (توله سگ، بزرگسال یا سالخورده) باشد. برخی از سگ ها مستعد اضافه وزن هستند، بنابراین میزان کالری و وزن سگ خود را تحت نظر داشته باشید. استفاده از خوراکی های تشویقی می تواند کمک مهمی در آموزش باشد، اما دادن مقدار زیادی از آنها می تواند باعث چاقی شود. در مورد اینکه کدامیک از غذاهای انسانی برای سگ ها بی خطر هستند و کدامیک مضر هستند، بیشتر بیاموزید. اگر در مورد وزن یا رژیم غذایی سگتان نگرانی دارید با دامپزشک خود مشورت کنید. آب تمیز و تازه باید همیشه در دسترس باست هاند شما باشد.",
   "keeping_item_comb_content": "اگرچه ممکن است به نظر برسد که باست هاندها با موهای کوتاه و صاف خود نیازی به نظافت و آراستن ندارند، اما این مسئله در همۀ موارد صدق نمی کند. جلسات منظم نظافت بخش مهمی در سالم و شاد نگه داشتن این نژاد است. موهای کوتاه باست می تواند به شدت ریزش داشته باشد. می توان با حداقل هفته ای یکبار برس کشیدن آرام با یک برس نرم یا ابزار مخصوص، ریزش موی آنها را تحت کنترل قرار داد. نظافت و آراستن علاوه بر از بین بردن موهایی که آماده ریختن هستند، مانند ماساژ برای تمام بدن است و برای پوست و سلامتی سگتان مفید است. باست ها همچنین به کوتاه کردن مرتب ناخن های خود نیاز دارند و حمام گاهگاهی به تمیز و براق ماندن پوشش آنها کمک می کند.",
   "keeping_item_training_content": "سگهای باست مانند برخی از نژادهای دیگر فعال نیستند، اما به تمرینات منظم و متوسط ​​نیاز دارند. معمولاً یک پیاده روی روزانه با سرعت متوسط نیاز آنها را برطرف می کند. ورزش به سالم ماندن باست ها کمک می کند و از اضافه وزن آنها جلوگیری می کند. از آنجا که این نژاد برای کار در یک دسته در کنار سگهای دیگر ساخته شده است، باست ها در خارج از خانه از مشارکت با سگهای دیگر لذت می برند، همچنین این نژاد می تواند کاملا بازیگوش باشد. بعد از یک جلسه پیاده روی یا بازی، آنها معمولا با یک خواب راحت، آرام می گیرند.",
@@ -1224,7 +1225,7 @@ let chow_chow =
   "dog_attitude_content": "چاوچاو، یک سگ همه منظوره از چین باستان است که تصویری از یک اشرافی عضلانی با سینه ای عمیق و یک حال و هوای وصف نشدنی را به نمایش می گذارد. چاوچاو، به عنوان سگی متشخص، با ذهنیتی جدی و درونگرا، نژادی با لذتهای منحصر به فرد است.",
   "dog_attitude_item_footer_content_1": "قیمت حدودی در بازار ایران: از 30 تا 35 میلیون تومان",
   "dog_order_contact_title_1": "دوست داری یک توله چاوچاو داشته باشی؟",
-  "dog_order_contact_picture_src":"/images/chavchav_2.jpg",
+  "dog_order_contact_picture_src": "/images/chavchav_2.jpg",
   "keeping_item_picture_src": "/images/chavchav_2.jpg",
   "keeping_item_food_content": "غذاهای سگ تجاری خشک و مرطوب زیادی با کیفیت عالی در بازار وجود دارد. بسیاری از صاحبان این نژاد تصمیم می گیرند که از رژیم غذایی کم غلات استفاده کنند. حتی اگر رژیم غذایی سگتان را تغییر نداده اید، مرتباً پوست چاوچاو را برای هر گونه تحریک یا علائم دیگر حساسیت، بررسی کنید، زیرا شرکت های مواد غذایی سگ معمولاً فرمول ها را تغییر می دهند. توجه داشته باشید که استفاده از تشویقی ها نیز می تواند باعث ایجاد حساسیت و مشکلات گوارشی شود. تا حد ممکن از دادن غذاهای باقیماندۀ سفره، به ویژه، استخوانهای پخته شده و غذاهای دارای چربی زیاد، خودداری کنید. درباره اینکه کدامیک از غذاهای انسانی برای سگ ها بی خطر است و کدامیک نیست، بیشتر بیاموزید. اگر در مورد وزن یا رژیم سگ خود نگرانی دارید، آن را با دامپزشک خود در میان بگذارید.",
   "keeping_item_comb_content": "هر دو چاوچاو های دارای پوشش خشن و صاف، دارای پوشش دولایه هستند و نیاز به نظافت منظم دارند. برس کشیدن دقیق، حداقل دو بار در هفته و حمام ماهانه می تواند پوست و پوشش سگ شما را سالم نگه دارد. حتماً هرگونه مشکل انگلی، مانند کک یا کنه را فوراً درمان کنید. با هر بار نظافت، بررسی چشمها و گوش ها را انجام دهید و ناخن ها را مرتباً کوتاه کنید. پوشش توله سگی و پوشش دور سر، اگر به طور مرتب رسیدگی نشود، ممکن است به شدت دچار درهم رفتگی شوند. برطرف کردن درهم رفتگی ها و برس یا شانه کشیدن زیرپوشش باید جداً مورد توجه قرار گیرد. بهتر است از خشک کن های دارای هوای خنک برای خشک کردن کامل چاوچاو بعد از هر حمام، استفاده کنید.",
@@ -1262,7 +1263,7 @@ let dalmatian =
   "dog_attitude_content": "دالمیشن های باوقار، به خاطر پوشش خالدار و وظایف منحصر به فردی که به عهده داشته اند، مشهور هستند. این 'سگهای مربی' در طول تاریخچۀ طولانی خود به عنوان همراه و محافظ مربیان اسبهای اشراف، محافظ مسافران و آتش نشانان خدمت کرده اند.",
   "dog_attitude_item_footer_content_1": "قیمت حدودی در بازار ایران: 12 میلیون تومان",
   "dog_order_contact_title_1": "دوست داری یک توله دالمیشن داشته باشی؟",
-  "dog_order_contact_picture_src":"/images/dalmishen_3.jpg",
+  "dog_order_contact_picture_src": "/images/dalmishen_3.jpg",
   "keeping_item_picture_src": "/images/dalmishen_3.jpg",
   "keeping_item_food_content": "یک غذای سگ با کیفیت بالا که متناسب با سن سگ (توله سگ، بزرگسال یا سالخورده) باشد همۀ نیازهای غذایی دالمیشن را برطرف می کند. برای جلوگیری از افزایش وزن سگتان میزان کالری و وزن سگ خود را تحت نظر داشته باشید. استفاده از خوراکیهای تشویقی می تواند کمک مهمی در آموزش باشد، اما استفاده از مقدار زیاد آنها می تواند باعث چاقی شود. به خصوص از دادن استخوانهای پخته شده، غذاهای دارای چربی زیاد و پس مانده های سفره تا حد ممکن خودداری کنید. در مورد اینکه کدام یک از غذاهای انسانی برای سگ ها بی خطر است و کدام یک ممکن است مضر باشد، بیشتر بیاموزید. اگر در مورد وزن یا رژیم غذایی سگتان نگرانی دارید، با دامپزشکتان در میان بگذارید.",
   "keeping_item_comb_content": "پوشش دالمیشن با لکه های رنگی روی زمینه سفید و درخشان زیبایی خاصی دارد و برای نگه داشتن آن در شرایط مناسب به کار زیادی نیاز ندارد. حمام های گاه به گاه و برس کشیدن هفتگی با برس موی اسب یا شانۀ لاستیکی برای از بین بردن موهای مرده، می تواند دالمیشن دل را در بهترین ظاهر خود نگه دارد. ناخن های دالمیشن باید حداقل بصورت ماهانه کوتاه شوند. از آنجا که گوش های این نژاد رو به پایین قرار می گیرد، باید مرتباً مورد کنترل و بررسی قرار گیرند - پرورش دهنده و دامپزشکتان می توانند در مورد نحوۀ مراقبت و مواد تمیز کننده، پیشنهادات خوبی به شما ارائه دهند.",
@@ -1300,7 +1301,7 @@ let doberman_pinscher =
   "dog_attitude_content": "دوبرمن پینچر با دارا بودن بدنی قدرتمند و هوش بالا، یکی از نجیب زاده های دنیای سگ ها محسوب می شود. این نژاد بسیار بی باک و هوشیار، با افتخار در بین بهترین سگهای محافظتی جهان قرار می گیرد.",
   "dog_attitude_item_footer_content_1": "قیمت حدودی در بازار ایران: از 14 تا 15 میلیون تومان",
   "dog_order_contact_title_1": "دوست داری یک توله دوبرمن پینچر داشته باشی؟",
-  "dog_order_contact_picture_src":"/images/doberman_4.jpg",
+  "dog_order_contact_picture_src": "/images/doberman_4.jpg",
   "keeping_item_picture_src": "/images/doberman_4.jpg",
   "keeping_item_food_content": "تغذیه با یک غذای سگ دارای کیفیت عالی در طول زندگی برای دوبرمن بسیار مهم است. توله سگ دوبرمن باید با رژیم غذایی متناسب با سن او که توسط پرورش دهنده سگ یا دامپزشک تأیید شده است، تغذیه شود. استفاده از تشویقی ها می تواند کمک مهمی در آموزش باشد، اما استفادۀ زیاد از آنها می تواند باعث چاقی شود. درباره اینکه کدام یک از غذاهای انسانی برای سگ ها بی خطر هستند، بیاموزید. اگر در مورد وزن یا رژیم سگ خود نگرانی دارید، با دامپزشک خود مطرح کنید. مقدار کافی آب تمیز و شیرین باید همیشه در دسترس آنها باشد.",
   "keeping_item_comb_content": "اگرچه این نژاد نیز مانند بیشتر نژادها، پس از حمام نیاز به انجام کار خاصی ندارد، اما برخی از روشهای آراستن معمول می تواند به دوبرمن در رسیدن به شرایط بهینه کمک کند. یک برس کشیدن سریع روزانه با یک برس کوتاه می تواند پوشش سگ شما را براق و سالم نگه دارد. نیازی نیست که سگ شما بطور مکرر حمام کند. ناخن های او باید حداقل ماهانه کوتاه شوند و دندان های او نیز مرتبا مسواک شوند. گوش ها باید هر چند روز یکبار با دقت تمیز شوند — ریختن کمی روغن کودک بر روی حوله کاغذی برای این کار مناسب است-. دامپزشک شما می تواند به شما نشان دهد که چگونه گوش های سگ خود را تمیز کنید به گونه ای که آسیب نبیند و همچنین در معرض مشکلات احتمالی قرار نگیرد.",
@@ -1626,9 +1627,9 @@ let persian_mastiff =
 {
   "head_content_1": "فروشگاه سگ,خرید سگ,سگ پاپیلون",
   "head_title": "سگ سرابی",
-  "first_pictures_picture_1_src": "/images/sarabi_1.png",
-  "first_pictures_picture_2_src": "/images/sarabi_2.png",
-  "first_pictures_picture_3_src": "/images/sarabi_3.png",
+  "first_pictures_picture_1_src": "/images/sarabi_3.png",
+  "first_pictures_picture_2_src": "/images/sarabi_5.png",
+  "first_pictures_picture_3_src": "/images/sarabi_5.png",
   "dog_introduction_picture": "/images/sarabi_1.png",
   "dog_introduction_picture_alt": "سگ سرابی",
   "dog_introduction_title_1": "سرابی Persian mastiff",

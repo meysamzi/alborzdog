@@ -11,31 +11,6 @@ const Navbar = () => {
     return (
         <Fragment>
             {
-                /* First nav */
-            }
-            <div className='header_nav_container' onMouseEnter={obj.first_nav_dropdown_container_nezhadha_remove}>
-                <div className='header_nav_contact_us'>
-                    <p>تماس : 09359580206</p>
-                </div>
-                <div className='header_nav_address'>
-                    <p>آدرس:کردان-بلوار مولانا-خیابن نصر-باشگاه البرزداگ</p>
-                </div>
-                <div className='header_nav_social_title'>
-                    <p>شبکه های اجتماعی</p>
-                </div>
-                <div className='header_nav_social_container'>
-                    <div className='header_nav_social_instagram'>
-                        <i class="fab fa-instagram-square"></i>
-                    </div>
-                    <div className='header_nav_social_telegram'>
-                        <i class="fab fa-telegram"></i>
-                    </div>
-                </div>
-            </div>
-            {
-                /* First nav */
-            }
-            {
                 /* Responsive nav */
             }
             <div className='responsive_nav_container'>

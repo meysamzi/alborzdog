@@ -81,87 +81,70 @@ const Dog_shape = (props) => {
         shape_items_titles[5].current.style.display = 'block'
     }
 
-    useEffect(() => {
-        if (props.props.data.shape_item_picture_src !== '') {
-            shape_item_title_number_1.current.style.display = 'block'
-            shape_item_content_number_1.current.style.display = 'block'
-        }
-    }, [])
-
     return (
         <Fragment>
             {props.props.data.shape_item_picture_src !== ''
                 &&
                 <div className='shape_container'>
-                    <div className='shape_item'>
-                        <div className='shape_item_picture'>
-                            <img src={props.props.data.shape_item_picture_src} />
-                        </div>
-                        <div className='shape_item_number_1_container' onMouseEnter={shape_item_number_1_container}>
-                            <div className='shape_item_number_1_number'>
-                                <p>1</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_number_2_container' onMouseEnter={shape_item_number_2_container}>
-                            <div className='shape_item_number_2_number'>
-                                <p>2</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_number_3_container' onMouseEnter={shape_item_number_3_container}>
-                            <div className='shape_item_number_3_number'>
-                                <p>3</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_number_4_container' onMouseEnter={shape_item_number_4_container}>
-                            <div className='shape_item_number_4_number'>
-                                <p>4</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_number_5_container' onMouseEnter={shape_item_number_5_container}>
-                            <div className='shape_item_number_5_number'>
-                                <p>5</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_number_6_container' onMouseEnter={shape_item_number_6_container}>
-                            <div className='shape_item_number_6_number'>
-                                <p>6</p>
-                            </div>
-                        </div>
-                        <div className='shape_item_title_number_1' ref={shape_item_title_number_1}>
+                    <div className='shape_col_1'>
+                        <div ref={shape_item_title_number_1}>
                             <p>ظاهر عمومی</p>
                         </div>
-                        <div className='shape_item_content_number_1' ref={shape_item_content_number_1}>
+                        <div ref={shape_item_content_number_1}>
                             <p>{props.props.data.shape_item_content_number_1}</p>
                         </div>
-                        <div className='shape_item_title_number_2 shape_item_title_number_1' ref={shape_item_title_number_2}>
+                        <div ref={shape_item_title_number_2}>
                             <p>سر</p>
                         </div>
-                        <div className='shape_item_content_number_2 shape_item_content_number_1' ref={shape_item_content_number_2}>
+                        <div ref={shape_item_content_number_2}>
                             <p>{props.props.data.shape_item_content_number_2}</p>
                         </div>
-                        <div className='shape_item_title_number_3 shape_item_title_number_1' ref={shape_item_title_number_3}>
+                        <div ref={shape_item_title_number_3}>
                             <p>بدن</p>
                         </div>
-                        <div className='shape_item_content_number_3 shape_item_content_number_1' ref={shape_item_content_number_3}>
+                        <div ref={shape_item_content_number_3}>
                             <p>{props.props.data.shape_item_content_number_3}</p>
                         </div>
-                        <div className='shape_item_title_number_4 shape_item_title_number_1' ref={shape_item_title_number_4}>
+                        <div ref={shape_item_title_number_4}>
                             <p>نیم تنه جلویی</p>
                         </div>
-                        <div className='shape_item_content_number_4 shape_item_content_number_1' ref={shape_item_content_number_4}>
+                        <div ref={shape_item_content_number_4}>
                             <p>{props.props.data.shape_item_content_number_4}</p>
                         </div>
-                        <div className='shape_item_title_number_5 shape_item_title_number_1' ref={shape_item_title_number_5}>
+                        <div ref={shape_item_title_number_5}>
                             <p>پوشش</p>
                         </div>
-                        <div className='shape_item_content_number_5 shape_item_content_number_1' ref={shape_item_content_number_5}>
+                        <div ref={shape_item_content_number_5}>
                             <p>{props.props.data.shape_item_content_number_5}</p>
                         </div>
-                        <div className='shape_item_title_number_6 shape_item_title_number_1' ref={shape_item_title_number_6}>
+                        <div ref={shape_item_title_number_6}>
                             <p>نیم تنه عقبی</p>
                         </div>
-                        <div className='shape_item_content_number_6 shape_item_content_number_1' ref={shape_item_content_number_6}>
+                        <div ref={shape_item_content_number_6}>
                             <p>{props.props.data.shape_item_content_number_6}</p>
+                        </div>
+                    </div>
+                    <div className='shape_col_2'>
+                        <div className='shape_col_2_pic'>
+                            <img src={props.props.data.shape_item_picture_src} />
+                            <div onMouseEnter={shape_item_number_1_container}>
+                                <p>1</p>
+                            </div>
+                            <div onMouseEnter={shape_item_number_2_container}>
+                                <p>2</p>
+                            </div>
+                            <div onMouseEnter={shape_item_number_3_container}>
+                                <p>3</p>
+                            </div>
+                            <div onMouseEnter={shape_item_number_4_container}>
+                                <p>4</p>
+                            </div>
+                            <div onMouseEnter={shape_item_number_5_container}>
+                                <p>5</p>
+                            </div>
+                            <div onMouseEnter={shape_item_number_6_container}>
+                                <p>6</p>
+                            </div>
                         </div>
                     </div>
                 </div>

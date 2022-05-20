@@ -6,11 +6,13 @@ const Dog_introduction = (props) => {
                 <div className='dog_introduction_picture'>
                     <img src={props.props.data.dog_introduction_picture} alt={props.props.data.dog_introduction_picture_alt} />
                 </div>
-                <div className='dog_introduction_title_1'>
-                    <p>{props.props.data.dog_introduction_title_1}</p>
-                </div>
-                <div className='dog_introduction_title_2'>
-                    <p>{props.props.data.dog_introduction_title_2}</p>
+                <div className='dog_introduction_wrap_content'>
+                    <div className='dog_introduction_title_1'>
+                        <p>{props.props.data.dog_introduction_title_1}</p>
+                    </div>
+                    <div className='dog_introduction_title_2'>
+                        <p>{props.props.data.dog_introduction_title_2}</p>
+                    </div>
                 </div>
             </div>
         </Fragment>

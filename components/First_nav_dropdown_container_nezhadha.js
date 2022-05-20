@@ -31,9 +31,15 @@ const First_nav_dropdown_container_nezhadha = (props) => {
                 <div className='first_nav_dropdown_container_nezhadha_content_content_7'>
                     <p>{props.data.first_nav_dropdown_container_nezhadha_content_content_7}</p>
                 </div>
-                <div className={props.data.first_nav_dropdown_container_nezhadha_pic_1}></div>
-                <div className={props.data.first_nav_dropdown_container_nezhadha_pic_2}></div>
-                <div className={props.data.first_nav_dropdown_container_nezhadha_pic_3}></div>
+                <div className='first_nav_dropdown_container_nezhadha_pic_1'>
+                    <img src={props.data.first_nav_dropdown_container_nezhadha_pic_1} />
+                </div>
+                <div className='first_nav_dropdown_container_nezhadha_pic_2'>
+                    <img src={props.data.first_nav_dropdown_container_nezhadha_pic_2} />
+                </div>
+                <div className='first_nav_dropdown_container_nezhadha_pic_3'>
+                    <img src={props.data.first_nav_dropdown_container_nezhadha_pic_3} />
+                </div>
             </div>
         </Fragment>
     )
